@@ -124,6 +124,7 @@ $ pamac build intellij-idea-ultimate-edition
 $ pamac build spotify
 $ pamac build skypeforlinux-stable-bin
 $ pamac build popcorntime-bin
+$ pamac build realvnc-vnc-viewer
 
 $ pamac build copyq
 $ pamac build openfortivpn
@@ -133,6 +134,7 @@ $ pamac build wps-office
 ### Install gnome shell plugins
 - system-monitor: https://extensions.gnome.org/extension/120/system-monitor/
 - no-topleft-hot-corner: https://extensions.gnome.org/extension/118/no-topleft-hot-corner/
+- audio-output: https://extensions.gnome.org/extension/751/audio-output-switcher/
 
 ### Install and configure docker 
 
