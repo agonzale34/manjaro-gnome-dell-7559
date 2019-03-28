@@ -104,6 +104,7 @@ $ sudo pacman -S gradle
 $ sudo pacman -S terminator
 $ sudo pacman -S vlc
 $ sudo pacman -S gimp
+$ sudo pacman -S python-pip
 ```
 
 ### Remove not necessary packages
